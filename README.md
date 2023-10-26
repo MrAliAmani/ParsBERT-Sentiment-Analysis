@@ -6,6 +6,7 @@ ParsBERT is available for public use as well as most of the datasets that are me
 I have included the code for sentiment analysis using tensorflow, pytorch or scripts in this repository.
 Paper presenting ParsBERT: DOI: 10.1007/s11063-021-10528-4
 ParsBERT original repository: https://github.com/hooshvare/parsbert
+
 ## ParsBERT Sentiment Analysis
 
 ![ParsBERT Sentiment Analysis Banner Image](banner.png)
@@ -35,11 +36,7 @@ sentiment = model.predict(text)
 
 # Print the sentiment label
 print(sentiment)
-'''
-
-**Examples:**
-
-See the `examples` directory for examples of how to use the ParsBERT code in TensorFlow, PyTorch, and Python scripts.
+python```
 
 **Contributing:**
 
