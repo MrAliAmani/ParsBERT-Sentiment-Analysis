@@ -16,5 +16,5 @@ This repository contains code for sentiment analysis using ParsBERT, implemented
 
 **Features:**
 * Sentiment analysis of Persian text
-* Easy to use pretrained model
-* Well-documented project
+* ParsBERT outperforms other Persian language models in sentiment analysis, text classification, and named entity recognition tasks.
+* It is based on google's Bidirectional Encoder Representations from Transformer (BERT).
