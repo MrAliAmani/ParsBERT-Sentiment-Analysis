@@ -18,21 +18,3 @@ This repository contains code for sentiment analysis using ParsBERT, implemented
 * Sentiment analysis of Persian text
 * Easy to use pretrained model
 * Well-documented project
-
-**Installation:**
-
-```python
-pip install parsbert
-
-import parsbert
-
-# Load the ParsBERT model
-model = parsbert.load_model()
-
-# Perform sentiment analysis on a piece of text
-text = "این یک متن فارسی مثبت است."
-sentiment = model.predict(text)
-
-# Print the sentiment label
-print(sentiment)
-
