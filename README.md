@@ -1,7 +1,7 @@
 # ParsBERT project
 Using ParsBERT monolingual BERT-based model for persian language sentiment analysis
 
-The authors have gathered large persian text corpora and evaluated the three mentioned NLP downstream tasks on them and compared them with baselines.
+The authors have gathered large persian text corpora and evaluated the NLP downstream tasks on them and compared them with baselines.
 
 ParsBERT is available for public use as well as most of the datasets that are mentioned in the article.
 
