@@ -35,4 +35,4 @@ sentiment = model.predict(text)
 
 # Print the sentiment label
 print(sentiment)
-python```
+
