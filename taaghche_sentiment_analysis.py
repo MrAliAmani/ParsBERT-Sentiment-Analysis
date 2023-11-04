@@ -186,8 +186,8 @@ import collections  # A library for working with collections.
 
 #@title Kaggle Credential { display-mode: "form" }
 
-username = 'mraliamani' #@param {type: "string"}
-api_key = 'f181b1169b8f3e2bedf68238b71e792b' #@param {type: "string"}
+username = '' #@param {type: "string"}
+api_key = '' #@param {type: "string"}
 
 
 if username and api_key:
