@@ -54,7 +54,7 @@ Some data is manually crawled from sites and is not publicly available.
 
 * [Chetor](https://www.chetor.com/)
 
-* [Books]
+* Books
 
 I'm going to use one of the sentiment analysis datasets accessible from Kaggle ([Taaghche](https://www.kaggle.com/saeedtqp/taaghche)).
 
