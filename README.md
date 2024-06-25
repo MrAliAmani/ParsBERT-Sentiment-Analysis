@@ -188,6 +188,8 @@ Here are the training and evaluation losses from the model history:
 
 ## Lessons Learned
 
+Monolingual language models can outperform multilingual models on NLP downstream tasks (sentiment analysis, text classification, and named entity recognition).
+
 ## Citation
 
 **[ParsBERT: Transformer-based Model for Persian Language Understanding](https://arxiv.org/abs/2005.12515)** paper from Mehrdad Farahani et al.
